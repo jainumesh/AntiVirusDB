@@ -35,8 +35,4 @@ hplip:x:115:7:HPLIP system user,,,:/var/run/hplip:/bin/false
 kernoops:x:116:65534:Kernel Oops Tracking Daemon,,,:/:/bin/false
 pulse:x:117:124:PulseAudio daemon,,,:/var/run/pulse:/bin/false
 rtkit:x:118:126:RealtimeKit,,,:/proc:/bin/false
-saned:x:119:127::/var/lib/saned:/bin/false
-usbmux:x:120:46:usbmux daemon,,,:/var/lib/usbmux:/bin/false
-ukjain:x:1000:1000:ukjain,,,:/home/ukjain:/bin/bash
-sshd:x:121:65534::/var/run/sshd:/usr/sbin/nologin
-guest-wwko0m:x:999:999:Guest:/tmp/guest-wwko0m:/bin/bash
+
